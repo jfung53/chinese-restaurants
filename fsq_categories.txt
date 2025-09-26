@@ -1,0 +1,74 @@
+Foursquare Open Places categories
+https://docs.foursquare.com/data-products/docs/categories
+
+Dining and Drinking > Restaurant > Asian Restaurant
+
+---
+
+4bf58dd8d48988d142941735	Asian Restaurant
+
+4bf58dd8d48988d145941735	Chinese Restaurant
+
+---
+
+52af3a723cf9994f4e043bec	Beijing Restaurant
+
+52af3a7c3cf9994f4e043bed	Cantonese Restaurant
+
+58daa1558bbb0b01f18ec1d3	Cha Chaan Teng
+
+52af3a673cf9994f4e043beb	Chinese Aristocrat Restaurant
+
+52af3a903cf9994f4e043bee	Chinese Breakfast Restaurant
+
+4bf58dd8d48988d1f5931735	Dim Sum Restaurant
+
+52af3a9f3cf9994f4e043bef	Dongbei Restaurant
+
+52af3aaa3cf9994f4e043bf0	Fujian Restaurant
+
+52af3ab53cf9994f4e043bf1	Guizhou Restaurant
+
+52af3abe3cf9994f4e043bf2	Hainan Restaurant
+
+52af3ac83cf9994f4e043bf3	Hakka Restaurant
+
+52af3ad23cf9994f4e043bf4	Henan Restaurant
+
+52af3add3cf9994f4e043bf5	Hong Kong Restaurant
+
+52af3af23cf9994f4e043bf7	Huaiyang Restaurant
+
+52af3ae63cf9994f4e043bf6	Hubei Restaurant
+
+52af3afc3cf9994f4e043bf8	Hunan Restaurant
+
+52af3b053cf9994f4e043bf9	Imperial Restaurant
+
+52af3b213cf9994f4e043bfa	Jiangsu Restaurant
+
+52af3b293cf9994f4e043bfb	Jiangxi Restaurant
+
+52af3b343cf9994f4e043bfc	Macanese Restaurant
+
+52af3b3b3cf9994f4e043bfd	Manchu Restaurant
+
+52af3b463cf9994f4e043bfe	Peking Duck Restaurant
+
+52af3b633cf9994f4e043c01	Shaanxi Restaurant
+
+52af3b513cf9994f4e043bff	Shandong Restaurant
+
+52af3b593cf9994f4e043c00	Shanghai Restaurant
+
+52af3b6e3cf9994f4e043c02	Shanxi Restaurant
+
+52af3b773cf9994f4e043c03	Szechuan Restaurant
+
+52af3b813cf9994f4e043c04	Taiwanese Restaurant
+
+52af3b893cf9994f4e043c05	Tianjin Restaurant
+
+52af3b913cf9994f4e043c06	Xinjiang Restaurant
+
+52af3b9a3cf9994f4e043c07	Yunnan Restaurant
