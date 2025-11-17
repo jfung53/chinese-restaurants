@@ -10,3 +10,9 @@ uber-eats/
 
 notes.txt
 fsq_categories.txt
+
+# Large files
+census-data/acs2023_ethnicity_by_tract.shp
+census-data/acs2023_ethnicity_by_tract.shx
+census-data/acs2023_ethnicity_by_tract.dbf
+census-data/acs2023_ethnicity_by_tract.prj
