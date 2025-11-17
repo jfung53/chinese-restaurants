@@ -3,7 +3,9 @@
 .DS_Store
 
 __pycache__/
+literature/
 chinese_restaurants_filtered/
+stats_canada/
 
 notes.txt
 fsq_categories.txt
