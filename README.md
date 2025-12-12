@@ -3,6 +3,14 @@
 
 Please read the full story on my [ArcGIS Storymaps site](https://storymaps.arcgis.com/stories/73dfdb3d0b654a9aa9ce8b2bbb27495b)
 
+## Hypothesis
+
+Every time I'm on a road trip I’ve noticed that there always seems to be at least one Chinese restaurant in every city or town, no matter how small. This is interesting because although Chinese food is ubiquitous and popular across the country, Chinese people only make up 1.6% of the entire country. Many businesses that serve specific ethnicities tend to be spatially clustered in ethnic enclaves. Does that apply to Chinese restaurants, too? 
+
+My null hypothesis is that Chinese restaurant locations are spatially random. Do small towns have higher Chinese-restaurant-to-Chinese-people ratios than big cities?  
+
+While I was able to identify statistically significant Chinese population clusters in urban areas, but I'm still looking for the right tools to reject my null hypothesis. I probably also need to add some sort of control, like restaurants and populations of other ethnicities. 
+
 ---
 
 ## Workflow Notes
