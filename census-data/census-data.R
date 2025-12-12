@@ -49,10 +49,10 @@ data_race <- get_acs(geography = "county",
                      year = 2023,
                      output = "wide")
 
-data_ethnicity <- get_acs(geography = "county",
-                     geometry = TRUE,
+data_ethnicity <- get_acs(geography = "tract",
+                     #geometry = TRUE,
                      variables = ethnicity, 
-                     #state = all_states,
+                     state = all_states,
                      year = 2023,
                      output = "wide")
 
