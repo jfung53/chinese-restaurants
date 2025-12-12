@@ -1,13 +1,15 @@
 .env*
 .venv*
 .DS_Store
-.Rhistory
+.Rhistory*
 
 __pycache__/
 literature/
 chinese_restaurants_filtered/
 stats-canada/
 uber-eats/
+charts/
+census-data/
 
 notes.txt
 fsq_categories.txt
