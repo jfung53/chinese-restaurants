@@ -1,4 +1,4 @@
-# Mapping Chinese restaurants and Chinese populations across the US
+# Mapping Every Chinese Restaurant Across the US
 ---
 
 Please read the full story on my [ArcGIS Storymaps site](https://storymaps.arcgis.com/stories/73dfdb3d0b654a9aa9ce8b2bbb27495b)
